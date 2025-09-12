@@ -1,0 +1,4 @@
+Invoking command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/feng/dual_arm_control/build/dummy2_arm_moveit_config -- -j32 -l32
+Invoked command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/feng/dual_arm_control/build/dummy2_arm_moveit_config -- -j32 -l32
+Invoking command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/feng/dual_arm_control/build/dummy2_arm_moveit_config
+Invoked command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/feng/dual_arm_control/build/dummy2_arm_moveit_config

@@ -1,0 +1,46 @@
+[0.007s] Invoking command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/feng/dual_arm_control/build/dummy2_arm_moveit_config -- -j32 -l32
+[0.022s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.102s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.139s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.139s] -- Added test 'lint_cmake' to check CMake code style
+[0.139s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.140s] -- Added test 'xmllint' to check XML markup files
+[0.140s] -- Configuring done
+[0.141s] -- Generating done
+[0.142s] -- Build files have been written to: /home/feng/dual_arm_control/build/dummy2_arm_moveit_config
+[0.157s] Invoked command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/feng/dual_arm_control/build/dummy2_arm_moveit_config -- -j32 -l32
+[0.165s] Invoking command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/feng/dual_arm_control/build/dummy2_arm_moveit_config
+[0.169s] -- Install configuration: ""
+[0.169s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation
+[0.169s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2.py
+[0.169s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/README.md
+[0.169s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2
+[0.169s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/dummy2.urdf
+[0.169s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes
+[0.170s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/link6_1.stl
+[0.170s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/base_link.stl
+[0.171s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/link1_1.stl
+[0.171s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/camera_eye_1.stl
+[0.171s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/link4_1.stl
+[0.173s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/link3_1.stl
+[0.176s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/link2_1.stl
+[0.178s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/camera_1.stl
+[0.179s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/figer1_1.stl
+[0.179s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/link5_1.stl
+[0.181s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/simulation/dummy2/meshes/figer2_1.stl
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/ament_index/resource_index/package_run_dependencies/dummy2_arm_moveit_config
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/ament_index/resource_index/parent_prefix_path/dummy2_arm_moveit_config
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/environment/ament_prefix_path.sh
+[0.181s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/environment/ament_prefix_path.dsv
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/environment/path.sh
+[0.181s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/environment/path.dsv
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/local_setup.bash
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/local_setup.sh
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/local_setup.zsh
+[0.181s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/local_setup.dsv
+[0.181s] -- Installing: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/package.dsv
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/ament_index/resource_index/packages/dummy2_arm_moveit_config
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/cmake/dummy2_arm_moveit_configConfig.cmake
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/cmake/dummy2_arm_moveit_configConfig-version.cmake
+[0.181s] -- Up-to-date: /home/feng/dual_arm_control/install/dummy2_arm_moveit_config/share/dummy2_arm_moveit_config/package.xml
+[0.182s] Invoked command in '/home/feng/dual_arm_control/build/dummy2_arm_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/feng/dual_arm_control/build/dummy2_arm_moveit_config

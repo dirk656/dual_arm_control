@@ -1,0 +1,2 @@
+Invoking command in '/home/feng/dual_arm_control/build/dual_arm_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/feng/dual_arm_control/build/dual_arm_controller -- -j32 -l32
+Invoked command in '/home/feng/dual_arm_control/build/dual_arm_controller' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/feng/dual_arm_control/build/dual_arm_controller -- -j32 -l32

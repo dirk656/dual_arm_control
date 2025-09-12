@@ -1,0 +1,17 @@
+/home/feng/dual_arm_control/install/dual_arm_controller/lib/dual_arm_controller/dual_arm_controller_node
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/launch/dual_arm_control.launch.py
+/home/feng/dual_arm_control/install/dual_arm_controller/share/ament_index/resource_index/package_run_dependencies/dual_arm_controller
+/home/feng/dual_arm_control/install/dual_arm_controller/share/ament_index/resource_index/parent_prefix_path/dual_arm_controller
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/environment/ament_prefix_path.sh
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/environment/ament_prefix_path.dsv
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/environment/path.sh
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/environment/path.dsv
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/local_setup.bash
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/local_setup.sh
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/local_setup.zsh
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/local_setup.dsv
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/package.dsv
+/home/feng/dual_arm_control/install/dual_arm_controller/share/ament_index/resource_index/packages/dual_arm_controller
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/cmake/dual_arm_controllerConfig.cmake
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/cmake/dual_arm_controllerConfig-version.cmake
+/home/feng/dual_arm_control/install/dual_arm_controller/share/dual_arm_controller/package.xml
