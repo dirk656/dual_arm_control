@@ -1,3 +1,0 @@
-[0mCMake Error: The source directory "/home/feng/dual_arm_control/dual_arm_controller" does not exist.
-Specify --help for usage, or press the help button on the CMake GUI.[0m
-gmake: *** [Makefile:267：cmake_check_build_system] 错误 1
